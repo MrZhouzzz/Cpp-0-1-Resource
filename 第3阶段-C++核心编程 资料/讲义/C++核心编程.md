@@ -150,7 +150,7 @@ int main() {
 
 	int *p = func();
 
-	cout << *p << endl;
+	cout << *p << endl;	
 	cout << *p << endl;
 
 	system("pause");
@@ -169,7 +169,7 @@ int main() {
 
 ​		由程序员分配释放,若程序员不释放,程序结束时由操作系统回收
 
-​		在C++中主要利用new在堆区开辟内存
+​		在C++中主要利用new在堆区开辟内存说的建安费你所看见的
 
 **示例：**
 
